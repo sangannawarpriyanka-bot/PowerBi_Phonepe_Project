@@ -131,9 +131,9 @@ The project uses the following tables:
 
 - DAX: KPI and metric calculations
 
-- Excel/CSV structured datasets
+- Excel/CSV structured datasets – Source data for analysis
 
-- Github.
+- Github - Version control and repository hosting.
 
 ---
 ## 📥 How to Use:
