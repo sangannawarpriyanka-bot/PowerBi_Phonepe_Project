@@ -23,13 +23,15 @@ This project analyzes multiple PhonePe financial datasets and converts them into
 ---
 The project uses the following tables:
 
-Table Name	Description
-all_transactions	All PhonePe transaction records
-loan	Loan amounts, status & customer details
-insurance	Premiums & insurance types
-money_transfer	P2P and bank transfers
-all_users	User profile & join dates
-recharge_bills	Recharge & bill payment details
+| Table Name        | Purpose / What It Contains | Key Fields |
+|-------------------|---------------------------|-------------|
+| all_transactions  | Complete PhonePe transaction history including payment behavior and service usage. | amount, date, payment_status, reason, service_type, transaction_id, user_id |
+| loan              | Loan-related information for users with complete loan metrics. | loan_amount, loan_type, status, user_id |
+| insurance         | Insurance policy and premium details for all users. | premium_amount, insurance_type, policy_id, user_id |
+| money_transfer    | All wallet, UPI, and bank transfer details. | transfer_amount, transfer_type, status, user_id |
+| all_users         | Master user information table with join dates and user profile details. | user_id, join_date, user_type |
+| recharge_bills    | Recharge & bill payment data tracking amount and success ratios. | recharge_type, amount, payment_status, user_id |
+
 ---
 
 ## ✨ Key Features:
@@ -118,13 +120,13 @@ recharge_bills	Recharge & bill payment details
 
 ## 🗂️ Data:
 ---
-Transaction ID, User ID, Date, Amount, Payment Status, Service Type
+- Transaction ID: User ID, Date, Amount, Payment Status, Service Type
 
-Loan amounts: Maximum, Minimum, Average
+- Loan amounts: Maximum, Minimum, Average
 
-Insurance premiums: Type, Amount, Monthly Total
+- Insurance premiums: Type, Amount, Monthly Total
 
-Recharge data: Type, Amount, Status
+- Recharge data: Type, Amount, Status
 
 ---
 
@@ -141,24 +143,24 @@ Recharge data: Type, Amount, Status
 - Github.
 
 ---
-## ⚡ Usage:
+## 📥 How to Use:
 ---
-Open the .pbix file in Power BI Desktop
 
-Use slicers to filter by date, service, or user segment
+- Download the .pbix file from this repository
 
-Click charts & visuals to drill down into data
+- Open in Power BI Desktop
 
-Export visuals or tables as needed
+- Connect / Replace with your dataset path
 
+- Refresh the report.
 ---
 
 ## 🔮 Future Enhancements:
 ---
-🤖 Predictive analytics for user behavior & transaction forecasting
+- 🤖 Predictive analytics for user behavior & transaction forecasting
 
-🌍 Region-wise geospatial analysis
+- 🌍 Region-wise geospatial analysis
 
-🔄 Automated data refresh for live dashboards
+- 🔄 Automated data refresh for live dashboards
 
 ---
