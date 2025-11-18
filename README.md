@@ -1,4 +1,4 @@
-# 📱 PhonePe Power BI Analytics Dashboard
+# 📱 PhonePe Power BI Dashboard
 ---
 
 A fully interactive Power BI analytics project built using PhonePe-style fintech datasets.
