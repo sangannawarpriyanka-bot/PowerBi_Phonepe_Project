@@ -1,14 +1,38 @@
-📊 PhonePe – Power BI Project
+# 📱 PhonePe Power BI Analytics Dashboard
 ---
-# 🚀 Project Overview:
----
- This Power BI dashboard project leverages PhonePe’s transaction and user data to provide actionable insights, helping stakeholders analyze trends, monitor performance, and make data-driven decisions across multiple financial and payment services.
 
- PhonePe is a leading digital payments platform in India, offering a wide range of services including UPI payments, money transfers, mobile recharges, bill payments, loans, and insurance. It enables users to make fast, secure, and seamless transactions through a single app.
+A fully interactive Power BI analytics project built using PhonePe-style fintech datasets.
+This dashboard provides deep insights into Transactions, Users, Loans, Insurance, Money Transfers & Recharge Bills using engaging visuals and KPIs.
 
 ---
 
-# ✨ Key Features:
+## 📊 Project Overview:
+---
+
+This project analyzes multiple PhonePe financial datasets and converts them into a professional business-ready dashboard.
+
+✔️ End-to-end ETL (Power Query)
+✔️ Data modelling using relationships & DAX
+✔️ KPI cards, advanced charts & filters
+✔️ Modern and clean UI
+✔️ Multi-page dashboard
+
+---
+
+## 🗂️ Dataset Used:
+---
+The project uses the following tables:
+
+Table Name	Description
+all_transactions	All PhonePe transaction records
+loan	Loan amounts, status & customer details
+insurance	Premiums & insurance types
+money_transfer	P2P and bank transfers
+all_users	User profile & join dates
+recharge_bills	Recharge & bill payment details
+---
+
+## ✨ Key Features:
 ---
  💳 Transactions: Count, total amount, trends over time
 
@@ -24,21 +48,21 @@
 
 ---
 
-# 📊 Visuals:
+## 📊 Visuals:
 ---
-Cards: Quick summary of totals (transactions, loans, premiums)
+- Cards: Quick summary of totals (transactions, loans, premiums)
 
-Line Charts: Trend analysis over time
+- Line Charts: Trend analysis over time
 
-Donut/Pie Charts: Distribution of services & insurance types
+- Donut/Pie Charts: Distribution of services & insurance types
 
-Tables: Detailed transaction & recharge records
+- Tables: Detailed transaction & recharge records
 
-KPI Tiles: Highlight key metrics like average loan amount
+- KPI Tiles: Highlight key metrics like average loan amount
 
 ---
 
-# 🖼️ Project Screenshots:
+## 🖼️ Project Screenshots:
 ---
 1️⃣ All Transactions:
 
@@ -92,7 +116,7 @@ KPI Tiles: Highlight key metrics like average loan amount
 
 ---
 
-# 🗂️ Data:
+## 🗂️ Data:
 ---
 Transaction ID, User ID, Date, Amount, Payment Status, Service Type
 
@@ -104,16 +128,20 @@ Recharge data: Type, Amount, Status
 
 ---
 
-#🛠️ Tools & Technology:
+## 🛠️ Tools & Technology:
 ---
-Power BI Desktop: Dashboard creation & data modeling
+- Power BI Desktop: Dashboard creation & data modeling
 
-Power Query: Data cleaning & transformation
+- Power Query: Data cleaning & transformation
 
-DAX: KPI and metric calculations
+- DAX: KPI and metric calculations
+
+- Excel/CSV structured datasets
+
+- Github.
 
 ---
-# ⚡ Usage:
+## ⚡ Usage:
 ---
 Open the .pbix file in Power BI Desktop
 
@@ -125,7 +153,7 @@ Export visuals or tables as needed
 
 ---
 
-# 🔮 Future Enhancements:
+## 🔮 Future Enhancements:
 ---
 🤖 Predictive analytics for user behavior & transaction forecasting
 
