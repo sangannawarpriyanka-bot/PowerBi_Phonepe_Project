@@ -12,9 +12,13 @@ This dashboard provides deep insights into Transactions, Users, Loans, Insurance
 This project analyzes multiple PhonePe financial datasets and converts them into a professional business-ready dashboard.
 
 ✔️ End-to-end ETL (Power Query)
+
 ✔️ Data modelling using relationships & DAX
+
 ✔️ KPI cards, advanced charts & filters
+
 ✔️ Modern and clean UI
+
 ✔️ Multi-page dashboard
 
 ---
@@ -23,30 +27,31 @@ This project analyzes multiple PhonePe financial datasets and converts them into
 ---
 The project uses the following tables:
 
-| Table Name        | Purpose / What It Contains | Key Fields |
-|-------------------|---------------------------|-------------|
-| all_transactions  | Complete PhonePe transaction history including payment behavior and service usage. | amount, date, payment_status, reason, service_type, transaction_id, user_id |
-| loan              | Loan-related information for users with complete loan metrics. | loan_amount, loan_type, status, user_id |
-| insurance         | Insurance policy and premium details for all users. | premium_amount, insurance_type, policy_id, user_id |
-| money_transfer    | All wallet, UPI, and bank transfer details. | transfer_amount, transfer_type, status, user_id |
-| all_users         | Master user information table with join dates and user profile details. | user_id, join_date, user_type |
-| recharge_bills    | Recharge & bill payment data tracking amount and success ratios. | recharge_type, amount, payment_status, user_id |
+| Table Name       | Short Description |
+|------------------|------------------|
+| all_transactions | 💰 All PhonePe transactions including amount, date, and status. |
+| all_users        | 👤 User information with basic details and registration data. |
+| loan             | 🏦 User loan details including loan amount and type. |
+| insurance        | 🛡️ Insurance records including premium and category. |
+| money_transfer   | 💱 UPI, wallet, and bank transfer transaction details. |
+| recharge_bills   | 🔌 Recharge and bill payment transactions with amount and status. |
+
 
 ---
 
 ## ✨ Key Features:
 ---
- 💳 Transactions: Count, total amount, trends over time
+ - 💳 Transactions: Count, total amount, trends over time
 
-💰 Loans: Maximum, minimum, and average loan amounts
+- 💰 Loans: Maximum, minimum, and average loan amounts
 
-🛡️ Insurance: Total premiums, types, and monthly growth
+- 🛡️ Insurance: Total premiums, types, and monthly growth
 
-📱 Recharge & Payments: Status, type, and top services
+- 📱 Recharge & Payments: Status, type, and top services
 
-👥 User Insights: Engagement, frequency, and regional analysis
+- 👥 User Insights: Engagement, frequency, and regional analysis
 
-📈 Interactive Visuals: Cards, line charts, donut/pie charts, tables, and KPIs
+- 📈 Interactive Visuals: Cards, line charts, donut/pie charts, tables, and KPIs
 
 ---
 
