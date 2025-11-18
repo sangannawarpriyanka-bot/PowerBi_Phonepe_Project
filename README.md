@@ -43,32 +43,43 @@ KPI Tiles: Highlight key metrics like average loan amount
 1️⃣ All Transactions:
 
 
-<img width="603" height="435" alt="All Transactions" src="https://github.com/user-attachments/assets/7fbc5a1c-7ac9-4e6e-90ee-858e9e2eaa0c" />
+
+<img width="603" height="535" alt="All Transactions" src="https://github.com/user-attachments/assets/7fbc5a1c-7ac9-4e6e-90ee-858e9e2eaa0c" />
+---
 
 2️⃣ Recharge Bills:
 
 
-<img width="605" height="440" alt="Recharge_Bills" src="https://github.com/user-attachments/assets/84adcbb9-848f-4c11-92ad-046e3d286bed" />
+
+<img width="605" height="540" alt="Recharge_Bills" src="https://github.com/user-attachments/assets/84adcbb9-848f-4c11-92ad-046e3d286bed" />
+---
 
 3️⃣ Loan Insights:
 
 
 
-<img width="603" height="437" alt="Loan" src="https://github.com/user-attachments/assets/de307f81-b7da-413c-9665-b5e97f3c73fc" />
+
+<img width="603" height="537" alt="Loan" src="https://github.com/user-attachments/assets/de307f81-b7da-413c-9665-b5e97f3c73fc" />
+---
 
 4️⃣ Insurance: 
 
 
 
-<img width="602" height="438" alt="Insurance" src="https://github.com/user-attachments/assets/bc6d9268-9e45-428f-b7b5-15b43a56a644" />
+
+<img width="602" height="538" alt="Insurance" src="https://github.com/user-attachments/assets/bc6d9268-9e45-428f-b7b5-15b43a56a644" />
+---
 
 5️⃣ Money Transfer:
 
 
 
-   <img width="605" height="437" alt="Money_Transfer" src="https://github.com/user-attachments/assets/e9942e94-c5f2-42cf-a22d-a848740ed3d3" />
+
+   <img width="605" height="537" alt="Money_Transfer" src="https://github.com/user-attachments/assets/e9942e94-c5f2-42cf-a22d-a848740ed3d3" />
+---
 
 6️⃣ All Users:
+
 
 
 
