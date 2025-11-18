@@ -75,7 +75,7 @@ The project uses the following tables:
 
 
 
-<img width="703" height="435" alt="All Transactions" src="https://github.com/user-attachments/assets/7fbc5a1c-7ac9-4e6e-90ee-858e9e2eaa0c" />
+<img width="703" height="335" alt="All Transactions" src="https://github.com/user-attachments/assets/7fbc5a1c-7ac9-4e6e-90ee-858e9e2eaa0c" />
 
 ---
 
@@ -83,7 +83,7 @@ The project uses the following tables:
 
 
 
-<img width="705" height="440" alt="Recharge_Bills" src="https://github.com/user-attachments/assets/84adcbb9-848f-4c11-92ad-046e3d286bed" />
+<img width="705" height="340" alt="Recharge_Bills" src="https://github.com/user-attachments/assets/84adcbb9-848f-4c11-92ad-046e3d286bed" />
 
 ---
 
@@ -92,7 +92,7 @@ The project uses the following tables:
 
 
 
-<img width="703" height="437" alt="Loan" src="https://github.com/user-attachments/assets/de307f81-b7da-413c-9665-b5e97f3c73fc" />
+<img width="703" height="337" alt="Loan" src="https://github.com/user-attachments/assets/de307f81-b7da-413c-9665-b5e97f3c73fc" />
 
 ---
 
@@ -101,7 +101,7 @@ The project uses the following tables:
 
 
 
-<img width="702" height="438" alt="Insurance" src="https://github.com/user-attachments/assets/bc6d9268-9e45-428f-b7b5-15b43a56a644" />
+<img width="702" height="338" alt="Insurance" src="https://github.com/user-attachments/assets/bc6d9268-9e45-428f-b7b5-15b43a56a644" />
 
 ---
 
@@ -110,7 +110,7 @@ The project uses the following tables:
 
 
 
-   <img width="705" height="437" alt="Money_Transfer" src="https://github.com/user-attachments/assets/e9942e94-c5f2-42cf-a22d-a848740ed3d3" />
+   <img width="705" height="337" alt="Money_Transfer" src="https://github.com/user-attachments/assets/e9942e94-c5f2-42cf-a22d-a848740ed3d3" />
    
 ---
 
@@ -119,19 +119,7 @@ The project uses the following tables:
 
 
 
-<img width="703" height="438" alt="All users" src="https://github.com/user-attachments/assets/bc7e8171-2b56-4f0d-abe7-239d42768e1c" />
-
----
-
-## 🗂️ Data:
----
-- Transaction ID: User ID, Date, Amount, Payment Status, Service Type
-
-- Loan amounts: Maximum, Minimum, Average
-
-- Insurance premiums: Type, Amount, Monthly Total
-
-- Recharge data: Type, Amount, Status
+<img width="703" height="338" alt="All users" src="https://github.com/user-attachments/assets/bc7e8171-2b56-4f0d-abe7-239d42768e1c" />
 
 ---
 
