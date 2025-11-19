@@ -75,7 +75,7 @@ The project uses the following tables:
 
 
 
-<img width="703" height="335" alt="All Transactions" src="https://github.com/user-attachments/assets/7fbc5a1c-7ac9-4e6e-90ee-858e9e2eaa0c" />
+<img width="703" height="340" alt="All transaction" src="https://github.com/user-attachments/assets/90f980d7-c45c-4a69-8722-8ec045ee5681" />
 
 ---
 
